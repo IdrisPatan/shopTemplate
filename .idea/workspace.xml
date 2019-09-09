@@ -3,19 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b9579bab-999f-47ae-9a1e-86c143fa2848" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Guaranteed Tire &amp; Auto Service/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/Guaranteed Tire &amp; Auto Service/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Guaranteed Tire &amp; Auto Service/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/Guaranteed Tire &amp; Auto Service/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Guaranteed Tire &amp; Auto Service/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Guaranteed Tire &amp; Auto Service/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Guaranteed Tire &amp; Auto Service/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Guaranteed Tire &amp; Auto Service/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Guaranteed Tire &amp; Auto Service/js/jquery-ui-1.11.4.custom.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Guaranteed Tire &amp; Auto Service/js/jquery-ui-1.11.4.custom.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Guaranteed Tire &amp; Auto Service/js/jquery.isotope.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Guaranteed Tire &amp; Auto Service/js/jquery.isotope.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Guaranteed Tire &amp; Auto Service/service_air_conditioning.html" beforeDir="false" afterPath="$PROJECT_DIR$/Guaranteed Tire &amp; Auto Service/service_air_conditioning.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Guaranteed Tire &amp; Auto Service/service_brake_repair.html" beforeDir="false" afterPath="$PROJECT_DIR$/Guaranteed Tire &amp; Auto Service/service_brake_repair.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Guaranteed Tire &amp; Auto Service/service_engine_diagnostics.html" beforeDir="false" afterPath="$PROJECT_DIR$/Guaranteed Tire &amp; Auto Service/service_engine_diagnostics.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Guaranteed Tire &amp; Auto Service/service_lube_oil_filters.html" beforeDir="false" afterPath="$PROJECT_DIR$/Guaranteed Tire &amp; Auto Service/service_lube_oil_filters.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Guaranteed Tire &amp; Auto Service/service_tire_wheel.html" beforeDir="false" afterPath="$PROJECT_DIR$/Guaranteed Tire &amp; Auto Service/service_tire_wheel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Guaranteed Tire &amp; Auto Service/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/Guaranteed Tire &amp; Auto Service/services.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Guaranteed Tire &amp; Auto Service/wheel_alignment.html" beforeDir="false" afterPath="$PROJECT_DIR$/Guaranteed Tire &amp; Auto Service/wheel_alignment.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,17 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Guaranteed Tire &amp; Auto Service/services.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="391" column="40" lean-forward="true" selection-start-line="391" selection-start-column="40" selection-end-line="391" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -52,35 +29,20 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2187" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1375" />
     <option name="y" value="125" />
-    <option name="width" value="1094" />
-    <option name="height" value="613" />
+    <option name="width" value="2165" />
+    <option name="height" value="1563" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Guaranteed2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Guaranteed2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Guaranteed2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Guaranteed2" type="462c0819:PsiDirectoryNode" />
-              <item name="Guaranteed Tire &amp; Auto Service" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -106,9 +68,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1913" y="83" width="1550" height="934" extended-state="6" />
+    <frame x="550" y="50" width="866" height="625" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.14966443" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.32102272" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -167,8 +129,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Guaranteed Tire &amp; Auto Service/services.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="391" column="40" lean-forward="true" selection-start-line="391" selection-start-column="40" selection-end-line="391" selection-end-column="40" />
+        <state relative-caret-position="6239">
+          <caret line="367" column="76" selection-start-line="355" selection-start-column="75" selection-end-line="367" selection-end-column="76" />
         </state>
       </provider>
     </entry>
